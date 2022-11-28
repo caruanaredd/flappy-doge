@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 3dc1eb17b69ef49358adecb7e0e2c873
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8129074600492472689
+    second: Background
+  - first:
+      213: -1234020912233529109
+    second: Ground
+  - first:
+      213: -8394116027465330658
+    second: Pipe_Top
+  - first:
+      213: -1750877271236592961
+    second: Pipe_Bottom
+  - first:
+      213: -7182675938113535168
+    second: ScoreBoard
+  - first:
+      213: 7975130518443146886
+    second: FlappyDoge-SpriteSheet_10
+  - first:
+      213: -88382461939849263
+    second: FlappyDoge-SpriteSheet_11
+  - first:
+      213: 6715441221461560777
+    second: FlappyDoge-SpriteSheet_12
+  - first:
+      213: -6217358448921667375
+    second: Doge
+  - first:
+      213: -8370032137695939370
+    second: FlappyDoge-SpriteSheet_14
+  - first:
+      213: 7222066871254219762
+    second: FlappyDoge-SpriteSheet_15
+  - first:
+      213: 4530248675857942394
+    second: FlappyDoge-SpriteSheet_16
+  - first:
+      213: -1916065491701502871
+    second: FlappyDoge-SpriteSheet_17
+  - first:
+      213: 7434658980996690296
+    second: FlappyDoge-SpriteSheet_18
+  - first:
+      213: -3412852656268618574
+    second: FlappyDoge-SpriteSheet_19
+  - first:
+      213: 8029358590431898375
+    second: FlappyDoge-SpriteSheet_20
+  - first:
+      213: -2706104698093652458
+    second: FlappyDoge-SpriteSheet_21
+  - first:
+      213: 5615566990264427382
+    second: FlappyDoge-SpriteSheet_22
+  - first:
+      213: 2969396401481623333
+    second: FlappyDoge-SpriteSheet_23
+  - first:
+      213: -4755254554027897992
+    second: FlappyDoge-SpriteSheet_24
+  - first:
+      213: 5793703011840726484
+    second: FlappyDoge-SpriteSheet_25
+  - first:
+      213: 670015890929903711
+    second: Medal_Bronze
+  - first:
+      213: -8554783176452047710
+    second: FlappyDoge-SpriteSheet_27
+  - first:
+      213: -8671367243300162351
+    second: Medal_None
+  - first:
+      213: 4428958402668170185
+    second: FlappyDoge-SpriteSheet_29
+  - first:
+      213: -300850636870655158
+    second: FlappyDoge-SpriteSheet_30
+  - first:
+      213: -1987483583537300742
+    second: FlappyDoge-SpriteSheet_31
+  - first:
+      213: -1921167822972855205
+    second: FlappyDoge-SpriteSheet_32
+  - first:
+      213: 6643413877971067949
+    second: FlappyDoge-SpriteSheet_33
+  - first:
+      213: 6220809201599282390
+    second: FlappyDoge-SpriteSheet_34
+  - first:
+      213: 6491243055467845537
+    second: FlappyDoge-SpriteSheet_35
+  - first:
+      213: -1512074349794367822
+    second: FlappyDoge-SpriteSheet_36
+  - first:
+      213: -534326434190616255
+    second: Title
+  - first:
+      213: 2445137831895282403
+    second: FlappyDoge-SpriteSheet_38
+  - first:
+      213: 8105131504381400077
+    second: FlappyDoge-SpriteSheet_39
+  - first:
+      213: -6703254301988137659
+    second: FlappyDoge-SpriteSheet_40
+  - first:
+      213: 1516702485662819250
+    second: FlappyDoge-SpriteSheet_41
+  - first:
+      213: -2376297308480063550
+    second: GameOver
+  - first:
+      213: -3493871840432280348
+    second: FlappyDoge-SpriteSheet_43
+  - first:
+      213: -7221704002631349623
+    second: FlappyDoge-SpriteSheet_44
+  - first:
+      213: -9119824368035413489
+    second: FlappyDoge-SpriteSheet_45
+  - first:
+      213: 8953893395133775783
+    second: FlappyDoge-SpriteSheet_46
+  - first:
+      213: -6526112676566015389
+    second: Button_OK
+  - first:
+      213: -7554612070295207619
+    second: FlappyDoge-SpriteSheet_48
+  - first:
+      213: -6274609819852233988
+    second: FlappyDoge-SpriteSheet_49
+  - first:
+      213: 6131618768660301779
+    second: FlappyDoge-SpriteSheet_50
+  - first:
+      213: 5851937928887521386
+    second: GetReady
+  - first:
+      213: -5851990434147468545
+    second: Medal_Gold
+  - first:
+      213: 2020370315751969675
+    second: Medal_Silver
+  - first:
+      213: -75853869106697377
+    second: FlappyDoge-SpriteSheet_54
+  - first:
+      213: 5896691962340101292
+    second: New
+  - first:
+      213: -6305896023118000683
+    second: FlappyDoge-SpriteSheet_56
+  - first:
+      213: 5006831527758453383
+    second: FlappyDoge-SpriteSheet_57
+  - first:
+      213: 6339004775167413107
+    second: FlappyDoge-SpriteSheet_58
+  - first:
+      213: 4550491515545470831
+    second: FlappyDoge-SpriteSheet_59
+  - first:
+      213: -893187900188481134
+    second: FlappyDoge-SpriteSheet_60
+  - first:
+      213: -3467714273358633685
+    second: FlappyDoge-SpriteSheet_61
+  - first:
+      213: -1777108729817964765
+    second: FlappyDoge-SpriteSheet_62
+  - first:
+      213: -3482146916041649199
+    second: FlappyDoge-SpriteSheet_63
+  - first:
+      213: 4274177157468605058
+    second: Instructions
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 288
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179110b874640d070800000000000000
+      internalID: 8129074600492472689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 400
+        width: 308
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0cae8b480efdee0800000000000000
+      internalID: -1234020912233529109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_Top
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 242
+        width: 52
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10148b62fb128b80800000000000000
+      internalID: -8394116027465330658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_Bottom
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 270
+        width: 52
+        height: 242
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba33aaf562a3b7e0800000000000000
+      internalID: -1750877271236592961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreBoard
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 280
+        width: 226
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0434ffb2a42025c90800000000000000
+      internalID: -7182675938113535168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doge
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 308
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d810c28e6187b9a0800000000000000
+      internalID: -6217358448921667375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medal_Bronze
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 194
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f586eb427ef5c4900800000000000000
+      internalID: 670015890929903711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medal_None
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 180
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4b2226f6d19a780800000000000000
+      internalID: -8671367243300162351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 122
+        width: 192
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14997f760f0b598f0800000000000000
+      internalID: -534326434190616255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 76
+        width: 188
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c734572032b50fd0800000000000000
+      internalID: -2376297308480063550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_OK
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 216
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362eb15f8179e65a0800000000000000
+      internalID: -6526112676566015389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetReady
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 26
+        width: 174
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60d9fa9a82463150800000000000000
+      internalID: 5851937928887521386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medal_Gold
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 10
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaf7af84bd89cea0800000000000000
+      internalID: -5851990434147468545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medal_Silver
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 10
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83d329091cc90c10800000000000000
+      internalID: 2020370315751969675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 8
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacce25091245d150800000000000000
+      internalID: 5896691962340101292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Instructions
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 170
+        width: 78
+        height: 98
+      alignment: 9
+      pivot: {x: 0.243, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a410aaa7de05b30800000000000000
+      internalID: 4274177157468605058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
